@@ -84,6 +84,9 @@ library
                      , Options.Applicative.Help.Levenshtein
                      , Options.Applicative.Help.Pretty
                      , Options.Applicative.Help.Types
+                     , Options.Applicative.Manpage.Core
+                     , Options.Applicative.Manpage.Cabal
+                     , Options.Applicative.Manpage.Types
                      , Options.Applicative.Types
                      , Options.Applicative.Internal
 
